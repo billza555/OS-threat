@@ -1,0 +1,14 @@
+C:\Users\nphis\Desktop\Presentation\Casestudy02\bin\Debug\net8.0\Casestudy02.exe
+C:\Users\nphis\Desktop\Presentation\Casestudy02\bin\Debug\net8.0\Casestudy02.deps.json
+C:\Users\nphis\Desktop\Presentation\Casestudy02\bin\Debug\net8.0\Casestudy02.runtimeconfig.json
+C:\Users\nphis\Desktop\Presentation\Casestudy02\bin\Debug\net8.0\Casestudy02.dll
+C:\Users\nphis\Desktop\Presentation\Casestudy02\bin\Debug\net8.0\Casestudy02.pdb
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.AssemblyInfoInputs.cache
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.AssemblyInfo.cs
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.csproj.CoreCompileInputs.cache
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.dll
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\refint\Casestudy02.dll
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.pdb
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\Casestudy02.genruntimeconfig.cache
+C:\Users\nphis\Desktop\Presentation\Casestudy02\obj\Debug\net8.0\ref\Casestudy02.dll
